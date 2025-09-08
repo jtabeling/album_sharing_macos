@@ -12,6 +12,7 @@
 **Development Setup:**
 *   Xcode IDE
 *   Standard Swift Package Manager for any future dependencies (none currently required).
+*   **Git version control** - Repository hosted at https://github.com/jtabeling/album_sharing_macos.
 
 **Technical Constraints:**
 *   Requires macOS version supporting the Photos framework APIs (typically macOS 10.13+).
@@ -29,4 +30,10 @@
 *   `AlbumSharingApp.swift`: App entry point.
 
 **Configuration:**
-*   Minimum target macOS version should be set according to the version that supports required Photos APIs (typically 10.13+). 
+*   Minimum target macOS version should be set according to the version that supports required Photos APIs (typically 10.13+).
+
+**Repository Information:**
+*   **GitHub URL:** https://github.com/jtabeling/album_sharing_macos
+*   **Main branch:** main
+*   **Initial commit:** Complete AlbumSharer macOS app with memory bank documentation
+*   **Build status:** ✅ Successfully builds and runs on macOS 
